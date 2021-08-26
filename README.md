@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Buthainaibrahim
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning JS and I have been learning HTML and Css for a year and half. 
 - 📫 Buthainaibrahim3@gmail.com
 
